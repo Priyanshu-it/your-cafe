@@ -24,7 +24,6 @@ It’s designed for cafés and small restaurants looking to expand their digital
 | Frontend | React.js, HTML5, CSS3, JavaScript (ES6+) |
 | Backend (optional) | Node.js, Express.js |
 | Database | MongoDB / Firebase |
-| Authentication | Firebase Auth / JWT |
 | Payments | Stripe / Razorpay |
 | Styling | Tailwind CSS / Material UI / Bootstrap |
 
